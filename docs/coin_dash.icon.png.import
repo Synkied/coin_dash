@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/coin_dash.icon.png-35786d07c68a377a7bdbbce5e9aa70d4.stex"
+path="res://.import/coin_dash.icon.png-22097a1ffd2a6b9ba95c567b3da72eb8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://html/coin_dash.icon.png"
-dest_files=[ "res://.import/coin_dash.icon.png-35786d07c68a377a7bdbbce5e9aa70d4.stex" ]
+source_file="res://docs/coin_dash.icon.png"
+dest_files=[ "res://.import/coin_dash.icon.png-22097a1ffd2a6b9ba95c567b3da72eb8.stex" ]
 
 [params]
 

@@ -5,8 +5,8 @@ export (PackedScene) var Powerup
 export (PackedScene) var Cactus
 export (int) var playtime
 
-var level
-var score
+var level = 0
+var score = 0
 var time_left = 0
 var screensize
 var playing = false
@@ -89,11 +89,11 @@ func _on_Player_pickup(type):
 	match type:
 		"coin":
 			score += 1
-			# $CoinSound.play()
+			$CoinSound.play()
 			$HUD.update_score(score)
 		"powerup":
 			time_left += 5
-			# $PowerupSound.play()
+			$PowerupSound.play()
 			$HUD.update_score(score)
 
 

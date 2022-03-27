@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/coin_dash.apple-touch-icon.png-4d7a71a920f4ff58537dbab49ad2e80d.stex"
+path="res://.import/coin_dash.apple-touch-icon.png-e02fa00e28ad11fbda30775916966740.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://html/coin_dash.apple-touch-icon.png"
-dest_files=[ "res://.import/coin_dash.apple-touch-icon.png-4d7a71a920f4ff58537dbab49ad2e80d.stex" ]
+source_file="res://docs/coin_dash.apple-touch-icon.png"
+dest_files=[ "res://.import/coin_dash.apple-touch-icon.png-e02fa00e28ad11fbda30775916966740.stex" ]
 
 [params]
 
